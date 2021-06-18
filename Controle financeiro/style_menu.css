@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-image: linear-gradient(45deg, #70359f, #0070C0);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 96vw;
+}
+
+.side-bar{
+    position: relative;
+    height: 661px;
+    width: 220px;
+    background-color: #d1d9d9;
+    box-shadow: 6px 2px 9px rgba(0, 0, 0, 0.692);
+}
+
+#links a{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    padding: 12px;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #21094e;
+    width: 50px;
+    transition: .5s;
+}
+
+a:hover{
+    color: #21094e80;
+}
+
+a:focus{
+    color: white;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0%;
+    left: 55%;
+    translate: (-50%, -50%);
+}
+
+.show-info{
+    width: 450px;
+    height: 100px;
+    border: 3px solid black;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    top: 32%;
+    left: 44%;
+    translate: (-50%, -50%);
+    position: absolute;
+    border-radius: 5px;
+    border-color: #d1d9d9;
+}
+
+label{
+    display: flex;
+    width: 180px;
+    height: 130px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 15%;
+    left: 53%;
+    translate: (-50%, -50%);
+    color: #d1d9d9;
+}
+
+#email{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    translate: (-50%, -50%);
+    border: 1px solid #d1d9d9;
+    border-radius: 5px;
+}
+#password{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    translate: (-50%, -50%);
+    border: 1px solid #d1d9d9;
+    border-radius: 5px;
+}
+
+#btn{
+    position: absolute;
+    top: 5px;
+    top:53%;
+    left: 60%;
+    background: #d1d9d9;
+    width: 100px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: .5s;
+    border-radius: 5px;
+}
+
+#btn:hover{
+    background: black;
+    color: #d1d9d9;
+}
+
+#btn:active{
+    border-radius: 50px;
+}
+
+
+/*
+----------ANOTAÇÕES----------
+
+    #1EBBD7 [ -> Outro Azul ]
+    #0070C0 [ -> Azul       ]
+    #70359f [ -> Roxo       ]
+    #0a1931 [ -> Cor Escura ]
+    #F0FFFF	[ -> Azure      ]
+    #511281	[ -> Outro Roxo ]
+    #0070c0a2[ -> azul claro]
+
+-----------------------------
+*/

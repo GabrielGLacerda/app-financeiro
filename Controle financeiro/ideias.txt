@@ -1,0 +1,89 @@
+                                        </----------IDEIAS---------->
+
+-----------------------------
+|       SEÇÃO DO PERFIL     | [  ] 
+-----------------------------
+    - [  ] Nome do usuário
+    - [  ] Dia de cadastro
+    - [  ] Email
+    - [  ] Senha e reescrever Senha
+    - [  ] Resumo do usuário
+    - [  ] Personalização de cores e aparencia
+
+-----------------------------
+|       LUCROS E RENDAS     | [  ]  
+-----------------------------
+    - [  ] Variável de entrada para lucros variados
+    - [  ] Variável de entrada para os custos
+    - [  ] Variável de entrada para o salário fixo(Caso tenha)
+    - [  ] Variável de entrada para o imposto
+    - [  ] Construção da lista com o dia dizendo o total do lucro e custos
+    - [  ] Saída com o valor total (total - custos)
+
+-----------------------------
+|        ARMAZENAMENTO      | [  ]  
+----------------------------- 
+    - [  ] Armazém de boletos
+    - [  ] Tags personalizadas em boletos
+    - [  ] Data de expiração
+
+-----------------------------
+|          GRÁFICOS         | [  ]  
+-----------------------------
+    - [  ] Gráfico de linhas demonstrando o total de lucro e despesas por dia
+    - [  ] Gráfico de barras demonstrando o total de lucro e da despesa
+    - [  ] Filtro para um intervalo de tempo específico
+
+-----------------------------
+|           SAÍDA           | [  ] 
+-----------------------------
+    - [  ] Imprimir as informações mensais em um arquivo pdf ou csv
+
+
+
+-----------------------------
+|          SUJESTÕES        | [  ] 
+-----------------------------
+    - [  ] Criar propaganda para o aplicativo
+    - [  ] Detalhar diferencialmente cada "sessão" do projeto
+    - [  ] Sobre a tela inicial: ensinar a navegar (ou definir perfil como tela inicial)
+
+</-------------------------->
+
+
+
+</----------SOLUÇÕES---------->
+-
+-
+-
+</---------------------------->
+
+ 
+
+</---------ANOTAÇÕES---------->
+
+    #1EBBD7 [ -> Outro Azul ]
+    #0070C0 [ -> Azul       ]
+    #70359f [ -> Roxo       ]
+    #0a1931 [ -> Cor Escura ]
+    #F0FFFF	[ -> Azure      ]
+    #511281	[ -> Outro Roxo ]
+
+</----------------------------->
+
+
+
+</--------Tag Descrição-------->
+
+    <table>	Define uma tabela
+    <th>	Define um cabeçalho de tabela
+    <tr>	Define uma linha de tabela
+    <td>	Define uma célula de tabela
+    <caption>	Define um título de tabela
+    <colgroup>	Define um grupo de colunas de tabela
+    <col>	Define os valores de atributo para uma ou mais colunas em uma tabela
+    <thead>	Define um cabeçalho de tabela
+    <tbody>	Define o corpo de uma tabela
+    <tfoot>	Defines o rodapé (footer) de uma tabela
+
+</----------------------------->
